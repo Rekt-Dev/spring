@@ -1,0 +1,22 @@
+{
+  "name": "scroll-animation-with-react-spring",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["animation", "react-spring", "react", "hooks"],
+  "main": "src/index.js",
+  "dependencies": {
+    "lorem-ipsum": "1.0.6",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-scripts": "2.0.3",
+    "react-spring": "8.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
